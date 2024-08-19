@@ -1,6 +1,6 @@
 # README
 
-This repo is from an old (and unfinished) code editor project I was working on using Electron. It was inspired by VS Code, Obsidian, and Logseq.
+This repo is from an old (and unfinished) code editor project I was working on using React, TypeScript, and Electron. It was inspired by VS Code, Obsidian, and Logseq.
 
 ## Demo gif
 
