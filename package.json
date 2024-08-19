@@ -51,7 +51,7 @@
     "@electron-forge/maker-rpm": "^6.4.1",
     "@electron-forge/maker-squirrel": "^6.4.1",
     "@electron-forge/maker-zip": "^6.4.1",
-    "@electron-forge/plugin-auto-unpack-natives": "^6.4.1",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.4.0",
     "@electron-forge/plugin-vite": "^6.4.1",
     "@eslint/js": "^8.48.0",
     "@playwright/test": "^1.37.1",
